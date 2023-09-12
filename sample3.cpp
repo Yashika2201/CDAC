@@ -3,13 +3,13 @@ using namespace std;
 
 int main() {
   int x, y;
-  int sum;
+  int add;
   cout << "Type first number: ";
   cin >> x;
   cout << "Type second number: ";
   cin >> y;
-  sum = x + y;
-  cout << "Sum is: " << sum;
+  add = x + y;
+  cout << "addition is: " << sum;
   cout<< "This one is changed to check"
   return 0;
 }
