@@ -4,9 +4,9 @@ using namespace std;
 int main() {
   int x, y;
   int sum;
-  cout << "Type  1st number: ";
+  cout << "Type first number: ";
   cin >> x;
-  cout << "Type 2nd number: ";
+  cout << "Type second number: ";
   cin >> y;
   sum = x + y;
   cout << "Sum is: " << sum;
