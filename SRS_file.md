@@ -13,6 +13,17 @@
 
 
 ## End Users
+- wide range of products and accessories should be available
+- reasonable prices and discounts
+- seasonal sales and Mega offers
+- Fast and Safe delivery
+- reliable company products
+- engaging user interface
+- smooth user experience
+- 24×7 customer service
+- Easy product return policy
+- Timely service and maintenance
+- free/cheap product installations 
 
 
 ## Sellers
