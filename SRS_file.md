@@ -20,5 +20,10 @@
 
 
 ## Staff and Employees
+- proper inventory management.
+- customers requirement and available stock should be updated in real time.
+- Fast and safe delivery. Delivery time should be calculated according to location and should be tracked precisely 
+- Data Management and Record keeping.
+- hassle free Delivery Management
 
 
