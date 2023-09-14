@@ -27,10 +27,10 @@ Users ought to be allowed to set up accounts using their personal data. Implemen
 ### Security:
 Aspirants who are allowed to sit for the examination will able to access the system to give the examination after authentication.All the aspirants and authority members will access the system through authentication process.It will protect the confidential informaion .System will provide access to the examination using identity and biometrics based security.The system will automatically log off after successful complition of exam time limit.The system will block the examiner after detecting any malpractices and unfair means.System will internally maintain secure communication and linkages between local exam servers and exam conducting authority.sensitive data will be always encripted across communication.
 
-###Techical infrastructure:
+### Techical infrastructure:
 The system will ensure that exam platform has a powerful technology infrastructure to handle massive amount of users at single time to prevent server down situations and system will minimize/eliminate various technical issues during exam time.
 
-###Modularity:
+### Modularity:
 The system will conduct the exam in modules. Exam will be conducted on different centeres, different days and on different time slots. The system will ensure data on all these exam slots will be stored safely and confidentially on respective exam center's local servers and thereafter it will be collected at central server for evaluation.  
 
 
