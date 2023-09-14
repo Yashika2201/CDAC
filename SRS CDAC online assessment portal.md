@@ -19,6 +19,9 @@ This system allows CDAC authority(ACTS) to conduct the CCAT exams without any di
 - ACTS : Advanced Computing Training School
   
 # Requirements
+
 ## Functional Requiremnets
+Users ought to be allowed to set up accounts using their personal data. Implementing secure authentication methods is recommended. Access control depending on roles for administrators, teachers, and students. In Question Bank Management, Students should have options to answer, clear response, reset all and mark for later. Answered questions should be given green colour, Unanswered questions should be given grey colour and marked for review questions should be given blue colour. Instructors should be able to create tests, set time limits, and specify the date and time for assessments. Option to randomize questions and answer choices.Timer for each assessment to track time remaining. Protection against cheating and plagiarism. Snapshots capturing after a certain amount of time and checking through AI to avoid malpractices. User-friendly interface and responsive design for various devices. Notifications for reminders, outcomes, and critical information can be sent via email or SMS.
+
 ## Non-Functional Requiremnets
 
