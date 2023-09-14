@@ -10,6 +10,9 @@
 
 
 ## Sales and Marketing
+- massive customer engagement
+- catchy space for advertising
+- relations with dealers/sellers
 
 
 ## End Users
