@@ -16,6 +16,13 @@
 
 
 ## Sellers
+- sellers should have a deep understanding of the products.
+- sellers need to convey their marketing message clearly.
+- Effective communication is required.
+- Data analysis.
+- seller must adopt new trend, technologies.
+- customer relationship management.
+- seller require online marketing skills.
 
 
 
