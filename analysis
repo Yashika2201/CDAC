@@ -1,0 +1,23 @@
+##Moduls for online assessment portal for cdac:
+1.Students
+2.CDAC
+3.Institute
+4.Faculty
+5.Exam Co-ordinator
+6.Lab Co-ordinator
+       
+##Data needs to preserve as per the moduls:
+1.student:
+    a)name
+    b)id proofs
+    c)address
+    d)educational details
+    f)fee receipt
+    g)exam center details
+    h)submitted answers as per paper code
+    
+2.CDAC Authority:
+    a)
+
+3.Exam co-ordinator
+    a)
