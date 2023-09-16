@@ -19,7 +19,7 @@
 - wide range of products and accessories should be available
 - reasonable prices and discounts
 - seasonal sales and Mega offers
-- Fast , Safe delivery
+- Fast, Safe delivery
 - reliable company products
 - engaging user interface
 - smooth user experience
