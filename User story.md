@@ -10,8 +10,8 @@
 - As a CDAC authority, I need to have a track of students, faculties, Co-ordinators and centers available so that I can avoid any emergency.
 - As a CDAC authority ,I need to know how many students attended the exam.
 -As per Institute We want to know how many students going to give exam,so that we can creat set up for them.
--As per Institute We want the students data,so that we can identify each student.
--As per Institute We want proper security,so that malpracices can be avoided.
-As per exam co-ordinator we want to know number of schedule will conduct per day to conduct the exam.
--As per exam co-ordinator we want proper setup/platform to conduct the exams.
--As per exam co-ordinator we want data of each student on their screen when they add their hall ticket number to identify them.
+- As per Institute We want the students data,so that we can identify each student.
+- As per Institute We want proper security,so that malpracices can be avoided.
+- As per exam co-ordinator we want to know number of schedule will conduct per day to conduct the exam.
+- As per exam co-ordinator we want proper setup/platform to conduct the exams.
+- As per exam co-ordinator we want data of each student on their screen when they add their hall ticket number to identify them.
