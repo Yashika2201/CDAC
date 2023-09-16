@@ -17,7 +17,16 @@
     h)submitted answers as per paper code
     
 2.CDAC Authority:
-    a)
+    a) final exam dates
+    b) available exam centers
+    c) Question bank
+    d) Count of total elegible students 
+    e) Eligible student Details - Name,address,birth date,exam centre choice
+
 
 3.Exam co-ordinator
-    a)
+    a) Total no. of students in respective exam halls 
+    b) Total no. of machines available in exam hall 
+    c) Students identity data and biometrics data
+    d) exam start time, End time and total duration 
+4. Institute 
