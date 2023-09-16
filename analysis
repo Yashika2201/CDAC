@@ -1,35 +1,47 @@
-##Moduls for online assessment portal for cdac:
-1.Students
-2.CDAC
-3.Institute
-4.Faculty
-5.Exam Co-ordinator
-6.Lab Co-ordinator
-       
-##Data needs to preserve as per the moduls:
-1.student:
-    a)name
-    b)id proofs
-    c)address
-    d)educational details
-    f)fee receipt
-    g)exam center details
-    h)submitted answers as per paper code
+# Moduls for online assessment portal for cdac:
+1. Students
+2. Exam Co-ordinator
+3. Lab Co-ordinator
+4. Institute
+5. CDAC
     
-2.CDAC Authority:
-    a) final exam dates
-    b) available exam centers
-    c) Question bank
-    d) Count of total elegible students 
-    e) Eligible student Details - Name,address,birth date,exam centre choice
+## Data needs to preserve as per the moduls:
+### Student:
+    - name
+    - hall ticket no.
+    - id and address proofs and biometrics
+    - educational details
+    - fee receipt
+    - exam center details and slots/sections appearing
+    - submitted answers as per paper code
+    
+### CDAC Authority:
+    - final exam dates
+    - list of exam centers and cities
+    - Question bank
+    - Difficuly level
+    - Count of total eligible students 
+    - Eligible student's verified details - Name,address,birth date,exam centre choice
 
 
-3.Exam co-ordinator
-    a) Total no. of students in respective exam halls 
-    b) Total no. of machines available in exam hall 
-    c) Students identity data and biometrics data
-    d) exam start time, End time and total duration 
+### Exam co-ordinator
+    - his/her name, id proof, institute assisted id card
+    - Total no. of students in respective exam halls
+    - list of no. of students appeared for exam day/slot/section wise
+    - detailed report on malpractices unfair means performed by students (if any)
+    - exam start time, End time and total duration 
 
-4. Institute 
-    a) Total Capacity 
-    b) Availability of facilities- no. of classrooms 
+### Institute 
+    -  Total Capacity 
+    -  no. of classrooms/labs
+    -  No. of working mahines/PC in labs
+    - available technical infrastructure, capasity of servers and capability
+    - no. of staff available
+    - Availability of facilities- sufficient male & female washrooms, facilities for disabled candidates, drinking water availibility, storage facility
+
+### Lab Co-ordinator
+    - his/her name, id proof, institute assisted id card
+    - Total no. of working machines available in exam hall
+    - Machine/OS/PC specifications - Model name,version,procesor
+    - Network specifications - bandwidth,speed,traffic
+    - detailed report on system failure/technical difficulties/server down situations (if any)
