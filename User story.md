@@ -1,20 +1,24 @@
 # User Story
-- As a student, I need to authenticate myself, so that I can see my all account details.
-- As a student, I need to be informed about my upcoming examinations and results.
-- As a student, I need to submit feedback, so that website owner can consider my opinion or concern during future website updates.
-- As a student, I need to visit my examination list with alloted center and time slots.
+- As a student, I need to authenticate myself, so that I can see my correct account details.
+- As a student, I need to be informed about my upcoming examinations final dates 30 to 40 days  well before the exmas.
+- As a student, I need to be provided hall ticket 10-15 days prior to final exam date.
+- As a student, I need to be provided with a live assistance/help to ressolve my queries/problems during exam time.
+- As a student, I need to know my exam results as soon as possible after the exam completion.  
+- As a student, I need to submit feedback, so that exam organiser can consider my opinion or concerns during future website updates.
+- As a student, I need to be provided nearest cities for my exam centre choice. 
 - As a student, I need a bot system so that, it can help me with any technical issue during the examination.
 - As a student, I need to be able to recover my password using OTP on email and mobile number for better experience and easy accessing.
 - As a student, I need to be able to reset my password for better security.
-- As a CDAC authority, I need to have a higher database for holding data of many students.
+- As a CDAC authority, I need to have a higher database for holding data of all applicated students.
 - As a CDAC authority, I need to have a track of students, faculties, Co-ordinators and centers available so that I can avoid any emergency.
-- As a CDAC authority ,I need to know how many students attended the exam.
+- As a CDAC authority ,I need to know how many students attended the exam and how many didn't able to complete the exams or had difficulties in submitting ans..
 - As a CDAC authority, I want to manage the release of assessment results to students.
 - As a CDAC authority, I want to analyze feedback from students about the online assesment portal.
-- As per Institute We want to know how many students going to give exam,so that we can create set up for them.
-- As per Institute We want the students data,so that we can identify each student.
-- As per Institute We want proper security,so that malpracices can be avoided.
-- As per exam co-ordinator we want to know number of schedule will conduct per day to conduct the exam.
-- As per exam co-ordinator we want proper setup/platform to conduct the exams.
-- As per exam co-ordinator we want data of each student on their screen when they add their hall ticket number to identify them.
+- As a CDAC authority, I want a complete detailed report on how many students faced problems during exam and how many attempts of malpractices found. 
+- As a Institute We want to know how many students going to give exam,so that we can create set up for them.
+- As a Institute We want the students data,so that we can identify each student.
+- As a Institute We want proper security,so that malpracices can be avoided.
+- As a exam co-ordinator we want to know number of schedule will conduct per day to conduct the exam.
+- As a exam co-ordinator we want proper setup/platform to conduct the exams.
+- As a exam co-ordinator we want data of each student on their screen when they add their hall ticket number to identify them.
 - 
