@@ -1,0 +1,20 @@
+The DRY principle is an acronym for "Don't Repeat Yourself." It's a software development principle with the goal of removing logic duplication.
+DRY was first introduced in the book The Pragmatic Programmer and ensures that a particular logic appears only once in the codebase.
+The principle states that "every piece of knowledge or logic should have a single, unambiguous representation within a system."
+We should not duplicate code or data in our software. Duplication can lead to errors and make our code more difficult to maintain. 
+It's often better to refactor our code to be more concise and easier to understand.
+
+Benefits:
+
+Maintainability: Reduces redundancy, making code easier to update and maintain.
+Readability: Cleaner code is more readable and understandable.
+Consistency: Promotes consistent use of logic and data.
+Efficiency: Smaller codebases may result in better performance.
+Debugging: Fewer code repetitions simplify error identification and correction.
+
+Advantages :
+
+It makes the codebase easier to maintain since if we wanted to change the logic or add to it, we’d only need to change it in one place instead of multiple locations where the logic appears
+It makes the code easier to read because there’ll be less redundancy in the code.
+
+
