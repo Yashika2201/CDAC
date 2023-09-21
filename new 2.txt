@@ -1,0 +1,9 @@
+hollywood principle
+ 1."Don't Call Us, We'll Call You.
+ 2.Dependency Inversion Principle:depend on abstraction,never on details.
+ 3.This principle defines the IOC with more abstraction.
+ As you know IoC defines inversing the control of dependencies. 
+ So first of all you should have a control center responsible for controlling dependencies i.e for making instance of them. 
+ This control center then inverses the flow of making instance of classes. 
+ So when you want to use ClassA in ClassB, you won't create instance of ClassB then Call ClassA. 
+ You make instance of ClassA and pass it to ClassB using different techniques and use it.
