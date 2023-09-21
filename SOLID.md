@@ -6,6 +6,7 @@
 - D : Dependency Iversion Principle
 ## S : Single Responsibility Principle 
 One of the SOLID principles of object-oriented programming is the Single Responsibility Principle (SRP). It says that a class should only have one cause to change, or, to put it another way, only have one responsibility.
+
 A class that manages both data storage and user authentication, for instance, violates SRP. Instead, distinct classes with a single duty for each should be used for user authentication and data storage. Because of this division, it is simpler to update or expand each component of the system without affecting the others.
 
 ## O : Open/Closed Principle
